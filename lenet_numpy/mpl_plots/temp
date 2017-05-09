@@ -1,0 +1,72 @@
+batch = 64:
+Final Cost of training data : 0.084908 
+Final Cost of Test data : 0.087059 
+Predictions on Training set
+Training Set Accuracy: 94.152000
+Predictions on Validation set
+
+Validation Set Accuracy: 93.620000
+Predictions on test set
+ans =
+
+   10000      60
+
+
+Test Set Accuracy: 93.860000
+
+
+
+batch = 128
+Feedforward MLP ...
+Final Cost of training data : 0.096744 
+Final Cost of Test data : 0.098704 
+Predictions on Training set
+Training Set Accuracy: 93.426000
+Predictions on Validation set
+
+Validation Set Accuracy: 92.760000
+Predictions on test set
+ans =
+
+   10000      60
+
+
+Test Set Accuracy: 93.100000
+
+
+batch = 32
+
+Final Cost of training data : 0.074077 
+Final Cost of Test data : 0.076480 
+Predictions on Training set
+Training Set Accuracy: 95.034000
+Predictions on Validation set
+
+Validation Set Accuracy: 94.330000
+Predictions on test set
+ans =
+
+   10000      60
+
+
+Test Set Accuracy: 94.640000
+
+
+batch= 16
+
+Feedforward MLP ...
+Final Cost of training data : 0.060992 
+Final Cost of Test data : 0.064846 
+Predictions on Training set
+Training Set Accuracy: 95.586000
+Predictions on Validation set
+
+Validation Set Accuracy: 95.090000
+Predictions on test set
+ans =
+
+   10000      60
+
+
+Test Set Accuracy: 95.090000
+

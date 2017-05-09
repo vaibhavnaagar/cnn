@@ -1,0 +1,57 @@
+64
+
+Step:  3127 :: Loss:  0.0717445424918 weight_sum:  996.519784528
+Training time: 23012.652922087
+Training Dataset accuracy:  98.744
+FeedForward time: 284.5397049349849
+Test Dataset accuracy:  98.57
+FeedForward time: 58.85782045999076
+
+
+128
+
+Step:  1563 :: Loss:  0.0874692699238 weight_sum:  846.065303443
+Training time: 22129.770501740015
+Training Dataset accuracy:  98.356
+FeedForward time: 268.6075335709902
+Test Dataset accuracy:  98.3
+FeedForward time: 55.11716413899558
+
+16
+
+Step:  12499 :: Loss:  0.00128285657238 weight_sum:  1662.50821055
+Training time: 28040.689990971994
+Training Dataset accuracy:  99.1
+FeedForward time: 251.1131907410163
+Test Dataset accuracy:  98.54
+FeedForward time: 50.907101218996104
+
+32
+
+Step:  6251 :: Loss:  0.0153365888248 weight_sum:  1213.79624123
+Training time: 25256.01152642301
+Training Dataset accuracy:  98.964
+FeedForward time: 271.70234371800325
+Test Dataset accuracy:  98.55	
+FeedForward time: 61.356069537985604
+
+
+tensorfow:
+16
+Iteration:  3124  Cost:  0.0110498  Minibatch accuracy:  100.0
+=======================================
+Epoch:  3  Test Accuracy:  98.1500029564
+=======================================
+
+64
+
+Iteration:  781  Cost:  0.0672392  Minibatch accuracy:  96.875
+=======================================
+Epoch:  3  Test Accuracy:  98.5400021076
+=======================================
+plotting Error rates...
+Plotting tsne...
+
+
+
+
